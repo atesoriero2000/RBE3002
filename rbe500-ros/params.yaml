@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_toner_inspiron__42467: 'http://toner-Inspiron:42467/'}
+rosversion: '1.14.9
+
+  '
+run_id: 661491aa-fabc-11ea-b72b-e09467807933
+turtlesim: {background_b: 255, background_g: 86, background_r: 150}

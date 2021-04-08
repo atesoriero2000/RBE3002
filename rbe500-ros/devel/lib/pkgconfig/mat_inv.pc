@@ -1,0 +1,8 @@
+prefix=/home/toner/rbe500-ros/devel
+
+Name: mat_inv
+Description: Description of mat_inv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

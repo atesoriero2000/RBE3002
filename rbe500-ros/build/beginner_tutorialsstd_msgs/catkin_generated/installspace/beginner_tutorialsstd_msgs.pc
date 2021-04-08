@@ -1,0 +1,8 @@
+prefix=/home/toner/rbe500-ros/install
+
+Name: beginner_tutorialsstd_msgs
+Description: Description of beginner_tutorialsstd_msgs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/toner/rbe500-ros/devel
+
+Name: quat_to_euler
+Description: Description of quat_to_euler
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
